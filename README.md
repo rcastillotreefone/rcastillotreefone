@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rcastillotreefone
-- 👀 I’m interested in Consultoria (Asterisk, Kamailio, FreeSwitch, PHP, AngularJS, ExpressJS, NodeJS)
+- 👀 I’m interested in Consultoria (Asterisk, Kamailio, FreeSwitch, PHP, AngularJS, ExpressJS, NodeJS, TypeORM, Docker & Kubernetes)
 - 🌱 I’m currently learning Ingles y Frances
 - 💞️ I’m looking to collaborate on OpenSource Services
 - 📫 How to reach me pkecastillo@gmail.com or https://www.linkedin.com/in/ricardo-castillo-under/
